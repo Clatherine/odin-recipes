@@ -1,0 +1,1 @@
+I am following the instructions on the Odin project to create a recipe website. I will have learnt how to make a website, uplaod it to GitHub, and make some lists on the website by the end
